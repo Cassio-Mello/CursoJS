@@ -4,6 +4,9 @@ function adiconarTarefa(){
     let tarefa = inputTarefa.value
     document.getElementById("mensagem").textContent = "Tarefa adicionada com sucesso ";
 
+
+
+
     let listaTarefas = document.getElementById("listaTarefas")
     let novaTarefa = document.createElement("li")
 
