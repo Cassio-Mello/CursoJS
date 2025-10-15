@@ -1,4 +1,4 @@
-// Exemplo Prático: Entrevista Simples
+  // Exemplo Prático: Entrevista Simples
 
 // Primeiro, importamos o módulo 'readline' do Node.js. Este módulo é usado para ler entrada (input) do usuário a partir do terminal.
 const readline = require('readline');
