@@ -57,3 +57,10 @@ form button:hover{
     background: var(--primary-color-darker);
 }
 
+#name{
+    display: block;
+}
+
+#age{
+    display: block;
+}

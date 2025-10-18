@@ -23,7 +23,7 @@ form.addEventListener('submit', function(event) {
 
     }
 
-    pessoas.push(pessoa);
+    pessoas.push(pessoa)
 
     const p = document.createElement('p');
     p.innerHTML = `Nome: ${name} ${lastName} <br> Email: ${email} <br> Telefone: ${phone}`;
@@ -36,5 +36,6 @@ form.addEventListener('submit', function(event) {
     });
     
     form.reset();
+    
 });
-
+0
